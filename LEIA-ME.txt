@@ -1,0 +1,7 @@
+DATACHECK MODULAR
+
+Abra a pasta no VS Code e execute: python3 main.py
+
+Todos os modulos compartilham dados.py. Os dados permanecem apenas em memoria: ainda nao existe banco de dados.
+A entrada de nota fiscal e somente rascunho, nao altera estoque.
+Mantenha o backup do codigo anterior.

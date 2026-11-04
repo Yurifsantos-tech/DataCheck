@@ -1,0 +1,29 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados e arquivos locais
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Configurações administrativas
+admin_config.json
+.env
+.env.*
+
+# Backups e versões antigas
+backups/
+versoes antigas/
+
+# Arquivos do sistema operacional
+.DS_Store
+
+# Configurações locais do editor
+.vscode/
